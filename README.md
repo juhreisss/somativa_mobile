@@ -18,7 +18,9 @@ Como Executar o Projeto:
   cmd ou terminal:
    git clone https://github.com/juhreisss/somativa_mobile.git
 
+cd portifolio
 cd portifolio_juliar
+cd somativa-mobile 
 
 Instalar as dependências:
 flutter pub get
