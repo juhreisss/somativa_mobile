@@ -16,18 +16,15 @@ Como Executar o Projeto:
 1. **Pré-requisitos:** Certifique-se de ter o Flutter instalado e configurado na sua máquina.
 2. **Clonar o repositório:**
   cmd ou terminal:
-   git clone
+   git clone https://github.com/juhreisss/somativa_mobile.git
 
-Bash
-cd 
+cd portifolio_juliar
 
 Instalar as dependências:
-Bash
 flutter pub get
 
 Executar o aplicativo:
-Bash
-flutter run
+flutter run ou pela main.dart dar run.
 
 
 
